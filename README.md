@@ -1,6 +1,14 @@
+<div align="center">
+
 # Hi there, I'm Faith Muthaka 👋
 
-<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=I'm+an+ML+Engineer." alt="Typing Effect" />
+
+<p align="center" style="max-width: 600px; margin-top: 15px;">
+  Focused on AI systems and backend engineering. [cite_start]I specialize in building and optimizing ML inference pipelines using FastAPI, with a strong focus on reducing latency and improving system efficiency. [cite: 4, 5, 14, 15]
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/faith-muthaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -9,17 +17,16 @@
   </a>
 </p>
 
-### 🚀 About Me
-I am an **AI/ML Engineer in training** with hands-on experience deploying machine learning models via robust APIs and containerized environments. I focus on bridging the gap between data science and scalable production software, with growing expertise in MLOps and cloud systems.
+</div>
 
 ---
 
 ### ⚡ Engineering Focus
 
 * **Machine Learning & Deep Learning Pipeline Development**
-* **Model Deployment & API Optimization (FastAPI & Docker)**
-* **Database Management, Optimization & Infrastructure Troubleshooting**
-* **Scalable AI Solutions & MLOps Integration**
+* [cite_start]**Model Deployment & API Optimization (FastAPI & Docker)** [cite: 4, 14, 15]
+* [cite_start]**Database Management, Optimization & Infrastructure Troubleshooting** [cite: 10, 11]
+* [cite_start]**Scalable AI Solutions & MLOps Integration** [cite: 5, 6]
 
 ---
 
