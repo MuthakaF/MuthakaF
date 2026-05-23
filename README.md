@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Faith Muthaka 👋
+# Hi there, I'm Faith Muthaka
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=I'm+an+ML+Engineer." alt="Typing Effect" />
 
@@ -23,23 +23,24 @@
   </a>
 </p>
 
-</div>
+---
+
+## Engineering Focus
+
+Machine Learning & Deep Learning Pipeline Development
+<br />
+Model Deployment & API Optimization (FastAPI & Docker)
+<br />
+Database Management, Optimization & Infrastructure Troubleshooting
+<br />
+Scalable AI Solutions & MLOps Integration
 
 ---
 
-### ⚡ Engineering Focus
+## Tech Stack & Tools
 
-* **Machine Learning & Deep Learning Pipeline Development**
-* **Model Deployment & API Optimization (FastAPI & Docker)**
-* **Database Management, Optimization & Infrastructure Troubleshooting**
-* **Scalable AI Solutions & MLOps Integration**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **AI / ML & Data Science**
-<p align="left">
+### AI / ML & Data Science
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -47,8 +48,8 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-#### **Deployment, DevOps & Databases**
-<p align="left">
+### Deployment, DevOps & Databases
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -57,8 +58,8 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-#### **Cloud & Infrastructure**
-<p align="left">
+### Cloud & Infrastructure
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -66,13 +67,11 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <br />
 
-### 🔥 Contribution Streak
+### Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuthakaF&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -80,7 +79,7 @@
 <br />
 <br />
 
-### 🏆 Profile Trophies
+### Profile Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MuthakaF&theme=onedark&column=6" alt="github-profile-trophy" />
@@ -90,7 +89,7 @@
 <br />
 <br />
 
-### 📈 Contribution Metrics & Activity Radar
+### Contribution Metrics & Activity Radar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuthakaF&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Faith's GitHub Stats" />
 </p>
@@ -98,7 +97,7 @@
 <br />
 <br />
 
-### 📉 Monthly Commit History
+### Monthly Commit History
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuthakaF&theme=react-dark" alt="Activity Graph" />
 </p>
