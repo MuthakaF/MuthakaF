@@ -66,14 +66,41 @@
 
 ---
 
-### 📊 GitHub Analytics
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuthakaF&theme=tokyonight)
+## 📊 GitHub Analytics
 
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=MuthakaF&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuthakaF&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<br />
+<br />
+
+### 🏆 Profile Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MuthakaF&theme=onedark&column=6" alt="github-profile-trophy" />
+  </a>
+</p>
+
+<br />
+<br />
+
+### 📈 Contribution Metrics & Activity Radar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuthakaF&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Faith's GitHub Stats" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuthakaF&theme=react-dark)
+<br />
+<br />
+
+### 📉 Monthly Commit History
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuthakaF&theme=react-dark" alt="Activity Graph" />
+</p>
+
+</div>
