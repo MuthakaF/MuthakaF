@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Faith Muthaka
+# Faith Muthaka
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=I'm+an+ML+Engineer." alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=ML+Engineer." alt="Typing Effect" />
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://skillicons.dev">
