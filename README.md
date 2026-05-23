@@ -4,7 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=I'm+an+ML+Engineer." alt="Typing Effect" />
 
-<p align="center" style="max-width: 600px; margin-top: 15px;">
+<p align="center" style="margin-top: 15px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,py,bash,linux&perline=5" alt="My Skills" />
+  </a>
+</p>
+
+<p align="center" style="max-width: 600px; margin-top: 20px;">
   Focused on AI systems and backend engineering. I specialize in building and optimizing ML inference pipelines using FastAPI, with a strong focus on reducing latency and improving system efficiency.
 </p>
 
