@@ -6,7 +6,7 @@
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,py,bash,linux&perline=5" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,hf,numpy,pandas,fastapi,postman,docker,githubactions,gcp,aws,gcp,azure,sqlite,mysql,js,dart&perline=6" alt="My Skills" />
   </a>
 </p>
 
