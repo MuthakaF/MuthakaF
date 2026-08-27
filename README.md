@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="max-width: 600px; margin-top: 20px;">
-  Focused on AI systems and backend engineering. I specialize in building and optimizing ML inference pipelines using FastAPI, with a strong focus on reducing latency and improving system efficiency.
+  Building AI systems and backend applications with a focus on practical, deployable solutions. I work across machine learning, LLM applications, API development, and software engineering, with an emphasis on building efficient systems and understanding the engineering behind them.
 </p>
 
 <p align="center">
@@ -27,19 +27,19 @@
 
 ## Engineering Focus
 
-Machine Learning & Deep Learning Pipeline Development
-<br />
-Model Deployment & API Optimization (FastAPI & Docker)
-<br />
-Database Management, Optimization & Infrastructure Troubleshooting
-<br />
-Scalable AI Solutions & MLOps Integration
+Machine Learning & Deep Learning System Development <br />
+LLM Applications, AI Agents & Retrieval-Augmented Generation <br />
+Backend Development & API Engineering with FastAPI <br />
+Model Deployment, Docker & Cloud Infrastructure <br />
+Database Design, Integration & Application Development <br />
+AI-Assisted Development, Automation & MLOps
 
 ---
 
 ## Tech Stack & Tools
 
 ### AI / ML & Data Science
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -49,6 +49,7 @@ Scalable AI Solutions & MLOps Integration
 </p>
 
 ### Deployment, DevOps & Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -59,6 +60,7 @@ Scalable AI Solutions & MLOps Integration
 </p>
 
 ### Cloud & Infrastructure
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
@@ -72,6 +74,7 @@ Scalable AI Solutions & MLOps Integration
 <br />
 
 ### Contribution Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuthakaF&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -80,6 +83,7 @@ Scalable AI Solutions & MLOps Integration
 <br />
 
 ### Profile Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MuthakaF&theme=onedark&column=6" alt="github-profile-trophy" />
@@ -90,6 +94,7 @@ Scalable AI Solutions & MLOps Integration
 <br />
 
 ### Contribution Metrics & Activity Radar
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuthakaF&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Faith's GitHub Stats" />
 </p>
@@ -98,6 +103,7 @@ Scalable AI Solutions & MLOps Integration
 <br />
 
 ### Monthly Commit History
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuthakaF&theme=react-dark" alt="Activity Graph" />
 </p>
